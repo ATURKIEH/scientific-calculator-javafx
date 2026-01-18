@@ -1,0 +1,57 @@
+.root {
+    -fx-font-family: "Segoe UI";
+    -fx-background-color: #f6f7fb;
+}
+
+.display {
+    -fx-font-size: 26px;
+    -fx-background-radius: 14;
+    -fx-border-radius: 14;
+    -fx-border-color: #d8dbe2;
+    -fx-border-width: 1.2;
+    -fx-padding: 14 14 14 14;
+    -fx-background-color: white;
+}
+
+.btn {
+    -fx-font-size: 16px;
+    -fx-font-weight: 600;
+    -fx-background-radius: 14;
+    -fx-border-radius: 14;
+    -fx-background-color: #eef0f6;
+    -fx-border-color: #d8dbe2;
+    -fx-border-width: 1;
+}
+
+.btn:hover {
+    -fx-background-color: #e5e8f2;
+}
+
+.btn:pressed {
+    -fx-background-color: #dfe3ef;
+}
+
+.btn-op {
+    -fx-background-color: #e9efff;
+    -fx-border-color: #c9d6ff;
+}
+
+.btn-eq {
+    -fx-background-color: #2f6fed;
+    -fx-text-fill: white;
+    -fx-border-color: #2f6fed;
+}
+
+.btn-eq:hover {
+    -fx-background-color: #2a63d6;
+}
+
+.btn-danger {
+    -fx-background-color: #ffe9ea;
+    -fx-border-color: #ffc9cf;
+}
+
+.btn-fn {
+    -fx-background-color: #edf7f1;
+    -fx-border-color: #cfe9da;
+}

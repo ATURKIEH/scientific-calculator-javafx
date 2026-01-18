@@ -1,0 +1,20 @@
+# Maven
+target/
+**/target/
+
+# IntelliJ / VS Code
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled files
+*.class
+
+# JavaFX runtime stuff
+hs_err_pid*
